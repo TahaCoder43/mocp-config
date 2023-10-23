@@ -1,0 +1,4 @@
+TiMidity_Config = /etc/timidity.cfg
+MusicDir = ~/Audios/
+Theme = transparent-background
+Keymap = vim-keymap
